@@ -1,0 +1,15 @@
+{
+  "name": "openfood-json-search",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Search for barcodes in OpenFoodFacts 38GB JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaspar L. Palgi",
+  "license": "ISC",
+  "dependencies": {
+    "openfoodfacts-nodejs": "^0.1.0"
+  }
+}
